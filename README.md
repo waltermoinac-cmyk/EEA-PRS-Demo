@@ -18,3 +18,4 @@ Se recomienda abrir el notebook directamente en **Google Colab**.
    ```python
    run_demo(user_id=5)
    run_demo(user_id=120)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/waltermoinac-cmyk/EEA-PRS-Demo/blob/main/EEA_PRS_demo.ipynb)
